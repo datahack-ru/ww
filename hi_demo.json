@@ -3,6 +3,7 @@
   "wake_word": "hi demo",
   "author": "DH",
   "website": "https://www.github.com/",
+  "trained_languages": ["en"],
   "model": "stream_state_internal_quant.tflite",
   "version": 2,
   "micro": {
@@ -13,3 +14,5 @@
     "minimum_esphome_version": "2024.7"
   }
 }
+
+
